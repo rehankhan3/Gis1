@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "441922373907",
+    "firebase_url": "https://myfirsttry-28128.firebaseio.com",
+    "project_id": "myfirsttry-28128",
+    "storage_bucket": "myfirsttry-28128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441922373907:android:9d002eb91cce40d3",
+        "android_client_info": {
+          "package_name": "com.example.rehan.mydatabasetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441922373907-edpon27cicj90ochtt14ecf29vcbknt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd5CcsC5mjYHlgwZzcq52lJOjN2pqhAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441922373907:android:af48ce0b6d8c3236",
+        "android_client_info": {
+          "package_name": "com.example.rehan.mydatatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441922373907-c3f27m0r942e624n7b5jealb4aov696v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rehan.mydatatest",
+            "certificate_hash": "93F40CCAD1430F645CDDE7D587C19B7FA6595F64"
+          }
+        },
+        {
+          "client_id": "441922373907-edpon27cicj90ochtt14ecf29vcbknt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd5CcsC5mjYHlgwZzcq52lJOjN2pqhAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441922373907-edpon27cicj90ochtt14ecf29vcbknt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441922373907:android:7f8881076cb8121e",
+        "android_client_info": {
+          "package_name": "com.example.rehan.gis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441922373907-mg63pjb21tivoknu58enkd4q0bl5op2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rehan.gis",
+            "certificate_hash": "93F40CCAD1430F645CDDE7D587C19B7FA6595F64"
+          }
+        },
+        {
+          "client_id": "441922373907-edpon27cicj90ochtt14ecf29vcbknt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd5CcsC5mjYHlgwZzcq52lJOjN2pqhAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441922373907-edpon27cicj90ochtt14ecf29vcbknt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
